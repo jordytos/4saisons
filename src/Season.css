@@ -1,0 +1,26 @@
+.Season-root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .Season-title {
+    margin: 0;
+  }
+  
+  .Season-subtitle {
+    margin: 0;
+  }
+  
+  .Season-content {
+    margin-top: 16px;
+  }
+  
+  .Season-icon {
+    padding: 8px;
+    width: 500px;
+    margin-top: -16px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }

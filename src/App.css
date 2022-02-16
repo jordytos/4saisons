@@ -1,0 +1,29 @@
+.App-root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-family: system-ui;
+  }
+  
+  .App-main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 25px;
+    width: 500px;
+  }
+  
+  .App-content {
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .App-actions {
+    margin-top: 8px;
+    margin-bottom: 8px;
+  }
+  
