@@ -1,33 +1,32 @@
 {
-    "seasons": {
-      "summer": {
-        "name": "Summer",
-        "icon": "https://images.unsplash.com/photo-1519046904884-53103b34b206?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "next": "autumn",
-        "beginAt": { "month": 6, "day": 21 },
-        "endAt": { "month": 9, "day": 22 }
-      },
-      "autumn": {
-        "name": "Autumn",
-        "icon": "https://images.unsplash.com/photo-1459478309853-2c33a60058e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
-        "next": "winter",
-        "beginAt": { "month": 9, "day": 23 },
-        "endAt": { "month": 12, "day": 20 }
-      },
-      "winter": {
-        "name": "Winter",
-        "icon": "https://images.unsplash.com/photo-1445543949571-ffc3e0e2f55e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
-        "next": "spring",
-        "beginAt": { "month": 12, "day": 21 },
-        "endAt": { "month": 3, "day": 19 }
-      },
-      "spring": {
-        "name": "Spring",
-        "icon": "https://images.unsplash.com/photo-1462275646964-a0e3386b89fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
-        "next": "summer",
-        "beginAt": { "month": 3, "day": 20 },
-        "endAt": { "month": 6, "day": 20 }
-      }
+  "seasons": {
+    "summer": {
+      "name": "Summer",
+      "icon": "https://images.unsplash.com/photo-1519046904884-53103b34b206?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "next": "autumn",
+      "beginAt": { "month": 6, "day": 21 },
+      "endAt": { "month": 9, "day": 22 }
+    },
+    "autumn": {
+      "name": "Autumn",
+      "icon": "https://images.unsplash.com/photo-1459478309853-2c33a60058e7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+      "next": "winter",
+      "beginAt": { "month": 9, "day": 23 },
+      "endAt": { "month": 12, "day": 20 }
+    },
+    "winter": {
+      "name": "Winter",
+      "icon": "https://images.unsplash.com/photo-1445543949571-ffc3e0e2f55e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+      "next": "spring",
+      "beginAt": { "month": 12, "day": 21 },
+      "endAt": { "month": 3, "day": 19 }
+    },
+    "spring": {
+      "name": "Spring",
+      "icon": "https://images.unsplash.com/photo-1462275646964-a0e3386b89fa?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
+      "next": "summer",
+      "beginAt": { "month": 3, "day": 20 },
+      "endAt": { "month": 6, "day": 20 }
     }
   }
-  
+}

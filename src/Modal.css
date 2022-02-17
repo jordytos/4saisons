@@ -1,38 +1,37 @@
 .Modal-root {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    position: absolute;
-    margin: auto;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    padding: 16px;
-    background-color: white;
-    width: 500px;
-    height: fit-content;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    border-radius: 25px;
-  }
-  
-  .Modal-content {
-    margin-top: 8px;
-    margin-bottom: 8px;
-  }
-  
-  .Modal-actions {
-    margin-top: 8px;
-    margin-bottom: 8px;
-  }
-  
-  .Modal-button {
-    border: none;
-    padding: 4px 8px;
-    font-weight: 700;
-    cursor: pointer;
-    background-color: black;
-    color: white;
-  }
-  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  padding: 16px;
+  background-color: white;
+  width: 500px;
+  height: fit-content;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 25px;
+}
+
+.Modal-content {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.Modal-actions {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.Modal-button {
+  border: none;
+  padding: 4px 8px;
+  font-weight: 700;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
